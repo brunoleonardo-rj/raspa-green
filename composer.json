@@ -1,0 +1,21 @@
+{
+    "name": "cassiopay/raspadinha",
+    "description": "Desenvolvido por cassiopay",
+    "autoload": {
+        "psr-4": {
+            "cassiopay\\Raspadinha\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cassiopay",
+            "url": "cassiopay.com.br"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.9",
+        "symfony/var-dumper": "^7.3",
+        "doctrine/orm": "^3.5",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}

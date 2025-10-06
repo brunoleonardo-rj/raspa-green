@@ -1,0 +1,130 @@
+27/09/2025 23:34:17 - Requisição recebida - amount=20, cpf=47553773077
+27/09/2025 23:34:19 - Gateway ativo: pixup
+27/09/2025 23:34:19 - Iniciando criação de depósito via PixUp
+27/09/2025 23:34:19 - ERRO: Falha na autenticação PixUp: {"statusCode":401,"message":"Erro de autoriza\u00e7\u00e3o"}
+27/09/2025 23:34:28 - Requisição recebida - amount=20, cpf=47553773077
+27/09/2025 23:34:29 - Gateway ativo: pixup
+27/09/2025 23:34:29 - Iniciando criação de depósito via PixUp
+27/09/2025 23:34:30 - ERRO: Falha na autenticação PixUp: {"statusCode":401,"message":"Erro de autoriza\u00e7\u00e3o"}
+27/09/2025 23:36:27 - Requisição recebida - amount=20, cpf=10533919789
+27/09/2025 23:36:28 - Gateway ativo: pixup
+27/09/2025 23:36:28 - Iniciando criação de depósito via PixUp
+27/09/2025 23:36:28 - ERRO: Erro ao autenticar PixUp: Could not resolve host: sandbox.pixupbr.com
+27/09/2025 23:38:22 - Requisição recebida - amount=20, cpf=47553773077
+27/09/2025 23:38:23 - Gateway ativo: pixup
+27/09/2025 23:38:23 - Iniciando criação de depósito via PixUp
+27/09/2025 23:38:24 - ERRO: Falha na autenticação PixUp: {"statusCode":401,"message":"Erro de autoriza\u00e7\u00e3o"}
+27/09/2025 23:58:30 - Requisição recebida - amount=20, cpf=47553773077
+27/09/2025 23:58:31 - Gateway ativo: pixup
+27/09/2025 23:58:31 - Iniciando criação de depósito via PixUp
+27/09/2025 23:58:32 - Retorno PixUp: {"success":false,"error":"Erro ao gerar QRCode PixUp"}
+27/09/2025 23:59:55 - Requisição recebida - amount=20, cpf=47553773077
+27/09/2025 23:59:56 - Gateway ativo: pixup
+27/09/2025 23:59:56 - Iniciando criação de depósito via PixUp
+27/09/2025 23:59:57 - Retorno PixUp: {"success":false,"error":"N\u00e3o foi poss\u00edvel processar a transa\u00e7\u00e3o, entre em contato com o suporte"}
+28/09/2025 00:07:46 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 00:07:49 - Gateway ativo: pixup
+28/09/2025 00:07:49 - Iniciando criação de depósito via PixUp
+28/09/2025 00:07:50 - Retorno PixUp: {"success":false,"error":"N\u00e3o foi poss\u00edvel processar a transa\u00e7\u00e3o, entre em contato com o suporte"}
+28/09/2025 00:35:52 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 00:35:53 - Gateway ativo: pixup
+28/09/2025 00:35:53 - Iniciando criação de depósito via PixUp
+28/09/2025 00:35:54 - Retorno PixUp: {"success":false,"error":"N\u00e3o foi poss\u00edvel processar a transa\u00e7\u00e3o, entre em contato com o suporte"}
+28/09/2025 00:35:59 - Requisição recebida - amount=70, cpf=47553773077
+28/09/2025 00:36:00 - Gateway ativo: pixup
+28/09/2025 00:36:00 - Iniciando criação de depósito via PixUp
+28/09/2025 00:36:01 - Retorno PixUp: {"success":false,"error":"N\u00e3o foi poss\u00edvel processar a transa\u00e7\u00e3o, entre em contato com o suporte"}
+28/09/2025 00:36:26 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 00:36:27 - Gateway ativo: pixup
+28/09/2025 00:36:28 - Iniciando criação de depósito via PixUp
+28/09/2025 00:36:28 - Retorno PixUp: {"success":false,"error":"N\u00e3o foi poss\u00edvel processar a transa\u00e7\u00e3o, entre em contato com o suporte"}
+28/09/2025 00:37:09 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 00:37:11 - Gateway ativo: pixup
+28/09/2025 00:37:11 - Iniciando criação de depósito via PixUp
+28/09/2025 00:37:12 - Retorno PixUp: {"success":false,"error":"N\u00e3o foi poss\u00edvel processar a transa\u00e7\u00e3o, entre em contato com o suporte"}
+28/09/2025 01:13:40 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 01:13:41 - Gateway ativo: pixup
+28/09/2025 01:13:41 - Iniciando criação de depósito via PixUp
+28/09/2025 01:13:42 - Retorno PixUp: {"success":false,"error":"N\u00e3o foi poss\u00edvel processar a transa\u00e7\u00e3o, entre em contato com o suporte"}
+28/09/2025 16:59:36 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 16:59:37 - Gateway ativo: pixup
+28/09/2025 16:59:37 - Iniciando criação de depósito via PixUp
+28/09/2025 16:59:38 - Retorno PixUp: {"success":false,"error":"Erro ao gerar QRCode PixUp"}
+28/09/2025 17:04:38 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 17:04:39 - Gateway ativo: pixup
+28/09/2025 17:04:39 - Iniciando criação de depósito via PixUp
+28/09/2025 17:04:41 - Retorno PixUp: {"success":false,"error":"Erro ao gerar QRCode PixUp"}
+28/09/2025 17:06:31 - Requisição recebida - amount=20, cpf=10533919789
+28/09/2025 17:06:33 - Gateway ativo: pixup
+28/09/2025 17:06:33 - Iniciando criação de depósito via PixUp
+28/09/2025 17:06:34 - Retorno PixUp: {"success":false,"error":"Erro ao gerar QRCode PixUp"}
+28/09/2025 17:10:54 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 17:10:55 - Gateway ativo: pixup
+28/09/2025 17:10:55 - Iniciando criação de depósito via PixUp
+28/09/2025 17:10:56 - Retorno PixUp: {"success":true,"transactionId":"f3a10ecae3e5eb06b89bmg3u7br6142o","qrCode":"00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/c9c46a51-c31e-4574-ae2f-829d654e6e345204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***6304CE91","qrCodeBase64":null,"status":"PENDING"}
+28/09/2025 17:10:57 - Depósito registrado no banco para usuário 477
+28/09/2025 17:10:57 - Pixel não configurado, evento ignorado.
+28/09/2025 23:02:28 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 23:02:29 - Gateway ativo: pixup
+28/09/2025 23:02:29 - Iniciando criação de depósito via PixUp
+28/09/2025 23:02:30 - Retorno PixUp: {"success":true,"transactionId":"ed4ad8b672552fe9385bmg46rfdj4ejo","qrCode":"00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/a0f52096-592e-4997-ad1b-5e60bb4ed5985204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***630493AC","qrCodeBase64":null,"status":"PENDING"}
+28/09/2025 23:02:30 - Depósito registrado no banco para usuário 477
+28/09/2025 23:02:31 - Pixel InitiateCheckout disparado para usuário 477
+28/09/2025 23:06:34 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 23:06:35 - Gateway ativo: pixup
+28/09/2025 23:06:35 - Iniciando criação de depósito via PixUp
+28/09/2025 23:06:36 - Retorno PixUp: {"success":true,"transactionId":"aa9ffb6e7858d71aaa98mg46wpbtws5t","qrCode":"00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/32adaa0d-f2f4-4725-a501-cc02ddff9d625204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***63044455","qrCodeBase64":null,"status":"PENDING"}
+28/09/2025 23:06:36 - Depósito registrado no banco para usuário 477
+28/09/2025 23:06:37 - Pixel InitiateCheckout disparado para usuário 477
+28/09/2025 23:07:55 - Requisição recebida - amount=40, cpf=47553773077
+28/09/2025 23:07:56 - Gateway ativo: pixup
+28/09/2025 23:07:56 - Iniciando criação de depósito via PixUp
+28/09/2025 23:07:57 - Retorno PixUp: {"success":true,"transactionId":"eb1eba2854b2898f3d7emg46yfnt4kwc","qrCode":"00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/9af2f484-6e0b-4b6e-b69d-3061492cbca65204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***63048066","qrCodeBase64":null,"status":"PENDING"}
+28/09/2025 23:07:57 - Depósito registrado no banco para usuário 477
+28/09/2025 23:07:58 - Pixel InitiateCheckout disparado para usuário 477
+28/09/2025 23:15:33 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 23:15:34 - Gateway ativo: pixup
+28/09/2025 23:15:34 - Iniciando criação de depósito via PixUp
+28/09/2025 23:15:36 - Retorno PixUp: {"success":true,"transactionId":"8c9d0d9d8d979af1bd7cmg4789dq17q3","qrCode":"00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/8c70eff2-544f-416c-a10e-0287261da7a55204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***630404C7","qrCodeBase64":null,"status":"PENDING"}
+28/09/2025 23:15:36 - Depósito registrado no banco para usuário 477
+28/09/2025 23:15:36 - Pixel InitiateCheckout disparado para usuário 477
+28/09/2025 23:24:30 - Requisição recebida - amount=20, cpf=47553773077
+28/09/2025 23:24:31 - Gateway ativo: pixup
+28/09/2025 23:24:31 - Iniciando criação de depósito via PixUp
+28/09/2025 23:24:33 - Retorno PixUp: {"success":true,"transactionId":"4186b7b95c6022d9c51emg47jrxd1ucr","qrCode":"00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/9b52caa9-242a-4a8f-8d5f-1402cd5555595204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***63047E3D","qrCodeBase64":null,"status":"PENDING"}
+28/09/2025 23:24:33 - Depósito registrado no banco para usuário 477
+28/09/2025 23:24:34 - Pixel InitiateCheckout disparado para usuário 477
+29/09/2025 00:47:33 - Requisição recebida - amount=1, cpf=94137149089
+29/09/2025 00:47:35 - Gateway ativo: pixup
+29/09/2025 00:47:35 - Iniciando criação de depósito via PixUp
+29/09/2025 00:47:36 - Retorno PixUp: {"success":true,"transactionId":"5254685c8250e7b7faa7mg4aikvc2b22","qrCode":"00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/2fdadc81-2eba-43fa-b001-b0169b51df8e5204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***63044762","qrCodeBase64":null,"status":"PENDING"}
+29/09/2025 00:47:36 - Depósito registrado no banco para usuário 477
+29/09/2025 00:47:36 - Sessão de checkout registrada para transação dep_68d9bb0744934
+29/09/2025 00:47:37 - Pixel InitiateCheckout disparado para usuário 477
+29/09/2025 00:48:12 - Requisição recebida - amount=1, cpf=94137149089
+29/09/2025 00:48:13 - Gateway ativo: pixup
+29/09/2025 00:48:13 - Iniciando criação de depósito via PixUp
+29/09/2025 00:48:14 - Retorno PixUp: {"success":true,"transactionId":"ae7f0022fa24432b9ee4mg4ajecd1wwl","qrCode":"00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/b536d56e-3875-4a99-acfa-fd56bf1352e35204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***6304BB33","qrCodeBase64":null,"status":"PENDING"}
+29/09/2025 00:48:14 - Depósito registrado no banco para usuário 477
+29/09/2025 00:48:15 - Sessão de checkout registrada para transação dep_68d9bb2d777e8
+29/09/2025 00:48:15 - Pixel InitiateCheckout disparado para usuário 477
+29/09/2025 00:53:24 - Requisição recebida - amount=20, cpf=94137149089
+29/09/2025 00:53:25 - Gateway ativo: pixup
+29/09/2025 00:53:25 - Iniciando criação de depósito via PixUp
+29/09/2025 00:53:26 - Retorno PixUp: {"success":true,"transactionId":"ff5a49454767162e74f8mg4aq3411lmb","qrCode":"00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/d8d50f5a-4166-4064-825d-d9a6165ed2475204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***6304D12D","qrCodeBase64":null,"status":"PENDING"}
+29/09/2025 00:53:26 - Depósito registrado no banco para usuário 477
+29/09/2025 00:53:27 - Sessão de checkout registrada para transação dep_68d9bc657d370
+29/09/2025 00:53:27 - Pixel InitiateCheckout disparado para usuário 477
+29/09/2025 00:53:32 - Requisição recebida - amount=20, cpf=10533919789
+29/09/2025 00:53:33 - Gateway ativo: pixup
+29/09/2025 00:53:33 - Iniciando criação de depósito via PixUp
+29/09/2025 00:53:34 - Retorno PixUp: {"success":true,"transactionId":"6dadb490b3c3516458d2mg4aq9jn4aly","qrCode":"00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/f0b43e19-00e3-4545-adf4-2d28996874935204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***63045FC7","qrCodeBase64":null,"status":"PENDING"}
+29/09/2025 00:53:35 - Depósito registrado no banco para usuário 477
+29/09/2025 00:53:35 - Sessão de checkout registrada para transação dep_68d9bc6d951df
+29/09/2025 00:53:36 - Pixel InitiateCheckout disparado para usuário 477
+29/09/2025 00:56:31 - Requisição recebida - amount=1, cpf=94137149089
+29/09/2025 00:56:32 - Gateway ativo: pixup
+29/09/2025 00:56:33 - Iniciando criação de depósito via PixUp
+29/09/2025 00:56:34 - Retorno PixUp: {"success":true,"transactionId":"1622a17b32b5b57e11bdmg4au3vk1dqt","qrCode":"00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/c7396667-75ed-477e-8b65-5b6cb55919b95204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***6304635B","qrCodeBase64":null,"status":"PENDING"}
+29/09/2025 00:56:34 - Sessão de checkout registrada para transação dep_68d9bd2127b2d
+29/09/2025 00:56:35 - Pixel InitiateCheckout disparado para usuário 477

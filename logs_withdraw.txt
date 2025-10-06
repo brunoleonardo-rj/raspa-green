@@ -1,0 +1,45 @@
+28/09/2025 18:09:28 - Requisição recebida: {"amount":100,"cpf":"10533919789"}
+28/09/2025 18:09:29 - Transação iniciada para usuário 477, valor=100, cpf=10533919789
+28/09/2025 18:09:29 - Saldo atual do usuário 477: 73.00
+28/09/2025 18:09:29 - ERRO: Saldo insuficiente para realizar o saque
+28/09/2025 18:09:34 - Requisição recebida: {"amount":50,"cpf":"10533919789"}
+28/09/2025 18:09:34 - Transação iniciada para usuário 477, valor=50, cpf=10533919789
+28/09/2025 18:09:34 - Saldo atual do usuário 477: 73.00
+28/09/2025 18:09:34 - Saques pendentes do usuário 477: 0
+28/09/2025 18:09:34 - Consultando API CPF para 10533919789
+28/09/2025 18:09:35 - Resposta API CPF: {"message":"Blocked User. Please contact your API provider."}
+28/09/2025 18:09:35 - Saldo atualizado para usuário 477: 23
+28/09/2025 18:09:35 - Saque registrado: Tx=WTH_68d95dbf782b5, valor=50, nome=Nome não encontrado
+28/09/2025 18:09:35 - Transação concluída com sucesso para usuário 477
+28/09/2025 18:11:37 - Requisição recebida: {"amount":50,"cpf":"10533919789"}
+28/09/2025 18:11:37 - Transação iniciada para usuário 477, valor=50, cpf=10533919789
+28/09/2025 18:11:38 - Saldo atual do usuário 477: 73.00
+28/09/2025 18:11:38 - Saques pendentes do usuário 477: 0
+28/09/2025 18:11:38 - Consultando API CPF para 10533919789
+28/09/2025 18:11:38 - Resposta API CPF: {"message":"Blocked User. Please contact your API provider."}
+28/09/2025 18:11:38 - Saldo atualizado para usuário 477: 23
+28/09/2025 18:11:39 - Saque registrado: Tx=WTH_68d95e3ae3cd5, valor=50, nome=Nome não encontrado
+28/09/2025 18:11:39 - Transação concluída com sucesso para usuário 477
+28/09/2025 18:16:17 - Requisição recebida: {"amount":20,"cpf":"10533919789"}
+28/09/2025 18:16:17 - Transação iniciada para usuário 477, valor=20, cpf=10533919789
+28/09/2025 18:16:17 - Saldo atual do usuário 477: 23.00
+28/09/2025 18:16:17 - Saques pendentes do usuário 477: 1
+28/09/2025 18:16:17 - ERRO: Você já possui um saque pendente. Aguarde a conclusão para solicitar outro.
+28/09/2025 18:16:40 - Requisição recebida: {"amount":50,"cpf":"10533919789"}
+28/09/2025 18:16:40 - Transação iniciada para usuário 477, valor=50, cpf=10533919789
+28/09/2025 18:16:40 - Saldo atual do usuário 477: 73.00
+28/09/2025 18:16:41 - Saques pendentes do usuário 477: 0
+28/09/2025 18:16:41 - Consultando API CPF para 10533919789
+28/09/2025 18:16:41 - Resposta API CPF: {"message":"Blocked User. Please contact your API provider."}
+28/09/2025 18:16:41 - Saldo atualizado para usuário 477: 23
+28/09/2025 18:16:41 - Saque registrado: Tx=WTH_68d95f69b0fab, valor=50, nome=Nome não encontrado
+28/09/2025 18:16:42 - Transação concluída com sucesso para usuário 477
+28/09/2025 18:21:13 - Requisição recebida: {"amount":50,"cpf":"10533919789"}
+28/09/2025 18:21:14 - Transação iniciada para usuário 477, valor=50, cpf=10533919789
+28/09/2025 18:21:14 - Saldo atual do usuário 477: 73.00
+28/09/2025 18:21:14 - Saques pendentes do usuário 477: 0
+28/09/2025 18:21:14 - Consultando API CPF para 10533919789
+28/09/2025 18:21:15 - Resposta API CPF: {"message":"Blocked User. Please contact your API provider."}
+28/09/2025 18:21:15 - Saldo atualizado para usuário 477: 23
+28/09/2025 18:21:15 - Saque registrado: Tx=WTH_68d9607b41a67, valor=50, nome=Nome não encontrado
+28/09/2025 18:21:15 - Transação concluída com sucesso para usuário 477

@@ -1,0 +1,59 @@
+[28/09/2025 18:35:06] Requisição de aprovação recebida → Saque ID=9, Admin=476
+[28/09/2025 18:35:06] Gateway ativo detectado: pixup
+[28/09/2025 18:35:07] Saque encontrado → User=477 | Valor=50.00 | CPF=10533919789
+[28/09/2025 18:35:07] Solicitando TOKEN Pixup para saque 9
+[28/09/2025 18:35:08] ERRO no saque 9: Falha ao obter token de acesso da PIXUP. HTTP: 404 | Response: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+
+[28/09/2025 18:36:50] Requisição de aprovação recebida → Saque ID=9, Admin=476
+[28/09/2025 18:36:51] Gateway ativo detectado: pixup
+[28/09/2025 18:36:51] Saque encontrado → User=477 | Valor=50.00 | CPF=10533919789
+[28/09/2025 18:36:51] Solicitando TOKEN Pixup para saque 9
+[28/09/2025 18:36:52] Token Pixup obtido com sucesso para saque 9
+[28/09/2025 18:36:52] Payload Pixup preparado → ExternalID=68d9642403e22-1759077412, Valor=50.00
+[28/09/2025 18:36:52] Enviando pagamento para Pixup → Saque=9, ExternalID=68d9642403e22-1759077412
+[28/09/2025 18:36:52] ERRO no saque 9: Falha ao processar pagamento na PIXUP. HTTP: 401 | Response: {"statusCode":401,"message":"Por favor resetar suas credenciais, entre em contato com o suporte"} | Erro da API: Por favor resetar suas credenciais, entre em contato com o suporte
+[28/09/2025 18:47:19] Requisição de aprovação recebida → Saque ID=9, Admin=476
+[28/09/2025 18:47:20] Gateway ativo detectado: pixup
+[28/09/2025 18:47:20] Saque encontrado → User=477 | Valor=50.00 | CPF=10533919789
+[28/09/2025 18:47:20] Solicitando TOKEN Pixup para saque 9
+[28/09/2025 18:47:20] Token Pixup obtido com sucesso para saque 9
+[28/09/2025 18:47:20] Payload Pixup preparado → ExternalID=68d96698bedaa-1759078040, Valor=50.00
+[28/09/2025 18:47:20] Payload Pixup preparado → ExternalID=68d96698bedaa-1759078040, Valor=50.00, Payload={
+    "amount": 50,
+    "description": "Saque - ID: 9",
+    "external_id": "68d96698bedaa-1759078040",
+    "creditParty": {
+        "name": "Teste",
+        "keyType": "CPF",
+        "key": "10533919789",
+        "taxId": "10533919789"
+    }
+}
+[28/09/2025 18:47:21] ERRO no saque 9: Falha ao processar pagamento na PIXUP. HTTP: 401 | Response: {"statusCode":401,"message":"Por favor resetar suas credenciais, entre em contato com o suporte"} | Erro da API: Por favor resetar suas credenciais, entre em contato com o suporte
+[28/09/2025 21:40:04] Requisição de aprovação recebida → Saque ID=10, Admin=476
+[28/09/2025 21:40:05] Gateway ativo detectado: pixup
+[28/09/2025 21:40:05] ERRO no saque 10: Saque não encontrado
+[28/09/2025 21:40:16] Requisição de aprovação recebida → Saque ID=11, Admin=476
+[28/09/2025 21:40:17] Gateway ativo detectado: pixup
+[28/09/2025 21:40:17] Saque encontrado → User=477 | Valor=20.00 | CPF=10533919789
+[28/09/2025 21:40:17] Solicitando TOKEN Pixup para saque 11
+[28/09/2025 21:40:17] Token Pixup obtido com sucesso para saque 11
+[28/09/2025 21:40:17] Payload Pixup preparado → ExternalID=68d98f21e51d5-1759088417, Valor=20.00
+[28/09/2025 21:40:17] Payload Pixup preparado → ExternalID=68d98f21e51d5-1759088417, Valor=20.00, Payload={
+    "amount": 20,
+    "description": "Saque - ID: 11",
+    "external_id": "68d98f21e51d5-1759088417",
+    "creditParty": {
+        "name": "Teste",
+        "keyType": "CPF",
+        "key": "10533919789",
+        "taxId": "10533919789"
+    }
+}
+[28/09/2025 21:40:18] ERRO no saque 11: Falha ao processar pagamento na PIXUP. HTTP: 401 | Response: {"statusCode":401,"message":"Por favor resetar suas credenciais, entre em contato com o suporte"} | Erro da API: Por favor resetar suas credenciais, entre em contato com o suporte

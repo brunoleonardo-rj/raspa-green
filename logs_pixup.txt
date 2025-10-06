@@ -1,0 +1,304 @@
+28/09/2025 07:20:49 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 07:20:50 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDE0NTk4LCJleHAiOjE3NTkwMTYzOTh9.7zWvyVcQbuprS0c-Py9OUiLwB1UTBYQKpfY3hSzWS_Q","expires_in":1149}
+28/09/2025 07:20:50 - Token obtido com sucesso.
+28/09/2025 07:20:50 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 07:20:50 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d871515f509","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"47553773077","email":"teste@teste.com.br"}}
+28/09/2025 07:20:50 - Create QRCode HTTP 401: {"statusCode":401,"message":"N\u00e3o foi poss\u00edvel processar a transa\u00e7\u00e3o, entre em contato com o suporte"}
+28/09/2025 07:22:43 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 07:22:43 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDE0NTk4LCJleHAiOjE3NTkwMTYzOTh9.7zWvyVcQbuprS0c-Py9OUiLwB1UTBYQKpfY3hSzWS_Q","expires_in":1035}
+28/09/2025 07:22:43 - Token obtido com sucesso.
+28/09/2025 07:22:43 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 07:22:43 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d871c3166b5","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"47553773077","email":"teste@teste.com.br"}}
+28/09/2025 07:22:44 - Create QRCode HTTP 401: {"statusCode":401,"message":"N\u00e3o foi poss\u00edvel processar a transa\u00e7\u00e3o, entre em contato com o suporte"}
+28/09/2025 07:28:44 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 07:28:44 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDE0NTk4LCJleHAiOjE3NTkwMTYzOTh9.7zWvyVcQbuprS0c-Py9OUiLwB1UTBYQKpfY3hSzWS_Q","expires_in":674}
+28/09/2025 07:28:44 - Token obtido com sucesso.
+28/09/2025 07:28:44 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 07:28:44 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d8732c8f939","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"47553773077","email":"teste@teste.com.br"}}
+28/09/2025 07:28:45 - Create QRCode HTTP 401: {"statusCode":401,"message":"N\u00e3o foi poss\u00edvel processar a transa\u00e7\u00e3o, entre em contato com o suporte"}
+28/09/2025 07:29:00 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 07:29:01 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDE0NTk4LCJleHAiOjE3NTkwMTYzOTh9.7zWvyVcQbuprS0c-Py9OUiLwB1UTBYQKpfY3hSzWS_Q","expires_in":658}
+28/09/2025 07:29:01 - Token obtido com sucesso.
+28/09/2025 07:29:01 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 07:29:01 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d8733cc5b6b","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"10533919789","email":"teste@teste.com.br"}}
+28/09/2025 07:29:01 - Create QRCode HTTP 401: {"statusCode":401,"message":"N\u00e3o foi poss\u00edvel processar a transa\u00e7\u00e3o, entre em contato com o suporte"}
+28/09/2025 16:59:37 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 16:59:38 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDcxMzUzLCJleHAiOjE3NTkwNzMxNTN9.2pKEWRUdpXCeSlkj793os6Qca03DSWAE1ZZWo0a5aH8","expires_in":1575}
+28/09/2025 16:59:38 - Token obtido com sucesso.
+28/09/2025 16:59:38 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 16:59:38 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d94d59b8c5d","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"47553773077","email":"teste@teste.com.br"}}
+28/09/2025 16:59:38 - Create QRCode HTTP 200: {
+    "transactionId": "5355d7112e8821fca51emg3tsspp102d",
+    "external_id": "dep_68d94d59b8c5d",
+    "status": "PENDING",
+    "amount": 20,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 11:59:38"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "47553773077"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/3e2d8373-5d0a-46ba-a945-f3b276de4e2d5204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***6304637D"
+}
+28/09/2025 17:04:40 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 17:04:40 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDcxMzUzLCJleHAiOjE3NTkwNzMxNTN9.2pKEWRUdpXCeSlkj793os6Qca03DSWAE1ZZWo0a5aH8","expires_in":1273}
+28/09/2025 17:04:40 - Token obtido com sucesso.
+28/09/2025 17:04:40 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 17:04:40 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d94e87e1a24","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"47553773077","email":"teste@teste.com.br"}}
+28/09/2025 17:04:41 - Create QRCode HTTP 200: {
+    "transactionId": "b93979a8c002d654d4d2mg3tz9q8427y",
+    "external_id": "dep_68d94e87e1a24",
+    "status": "PENDING",
+    "amount": 20,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 12:04:40"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "47553773077"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/5b4ae738-21d2-4958-9527-b965601c900d5204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***63043E1C"
+}
+28/09/2025 17:06:33 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 17:06:33 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDcxMzUzLCJleHAiOjE3NTkwNzMxNTN9.2pKEWRUdpXCeSlkj793os6Qca03DSWAE1ZZWo0a5aH8","expires_in":1160}
+28/09/2025 17:06:33 - Token obtido com sucesso.
+28/09/2025 17:06:33 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 17:06:33 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d94ef943352","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"10533919789","email":"teste@teste.com.br"}}
+28/09/2025 17:06:34 - Create QRCode HTTP 200: {
+    "transactionId": "417579c131cc859c89b2mg3u1p7r4p9j",
+    "external_id": "dep_68d94ef943352",
+    "status": "PENDING",
+    "amount": 20,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 12:06:34"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "10533919789"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/3a18264c-4293-4a42-90c0-6770a492509a5204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***6304178A"
+}
+28/09/2025 17:10:56 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 17:10:56 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDcxMzUzLCJleHAiOjE3NTkwNzMxNTN9.2pKEWRUdpXCeSlkj793os6Qca03DSWAE1ZZWo0a5aH8","expires_in":897}
+28/09/2025 17:10:56 - Token obtido com sucesso.
+28/09/2025 17:10:56 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 17:10:56 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d94fffc6579","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"47553773077","email":"teste@teste.com.br"}}
+28/09/2025 17:10:56 - Create QRCode HTTP 200: {
+    "transactionId": "f3a10ecae3e5eb06b89bmg3u7br6142o",
+    "external_id": "dep_68d94fffc6579",
+    "status": "PENDING",
+    "amount": 20,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 12:10:56"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "47553773077"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/c9c46a51-c31e-4574-ae2f-829d654e6e345204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***6304CE91"
+}
+28/09/2025 23:02:29 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 23:02:29 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDkzMDQ2LCJleHAiOjE3NTkwOTQ4NDZ9.xkGs8DcXGceHLuKEjJ3mAda-S2tcIy_STUYsql4q6-M","expires_in":1497}
+28/09/2025 23:02:29 - Token obtido com sucesso.
+28/09/2025 23:02:29 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 23:02:29 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d9a26570280","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"47553773077","email":"teste@teste.com.br"}}
+28/09/2025 23:02:30 - Create QRCode HTTP 200: {
+    "transactionId": "ed4ad8b672552fe9385bmg46rfdj4ejo",
+    "external_id": "dep_68d9a26570280",
+    "status": "PENDING",
+    "amount": 20,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 06:02:29"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "47553773077"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/a0f52096-592e-4997-ad1b-5e60bb4ed5985204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***630493AC"
+}
+28/09/2025 23:06:35 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 23:06:36 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDkzMDQ2LCJleHAiOjE3NTkwOTQ4NDZ9.xkGs8DcXGceHLuKEjJ3mAda-S2tcIy_STUYsql4q6-M","expires_in":1251}
+28/09/2025 23:06:36 - Token obtido com sucesso.
+28/09/2025 23:06:36 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 23:06:36 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d9a35ba7b90","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"47553773077","email":"teste@teste.com.br"}}
+28/09/2025 23:06:36 - Create QRCode HTTP 200: {
+    "transactionId": "aa9ffb6e7858d71aaa98mg46wpbtws5t",
+    "external_id": "dep_68d9a35ba7b90",
+    "status": "PENDING",
+    "amount": 20,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 06:06:35"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "47553773077"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/32adaa0d-f2f4-4725-a501-cc02ddff9d625204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***63044455"
+}
+28/09/2025 23:07:56 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 23:07:56 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDkzMDQ2LCJleHAiOjE3NTkwOTQ4NDZ9.xkGs8DcXGceHLuKEjJ3mAda-S2tcIy_STUYsql4q6-M","expires_in":1170}
+28/09/2025 23:07:56 - Token obtido com sucesso.
+28/09/2025 23:07:56 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 23:07:56 - Payload Enviado: {"amount":40,"payerQuestion":"Depósito de R$ 40","external_id":"dep_68d9a3ac73629","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"47553773077","email":"teste@teste.com.br"}}
+28/09/2025 23:07:57 - Create QRCode HTTP 200: {
+    "transactionId": "eb1eba2854b2898f3d7emg46yfnt4kwc",
+    "external_id": "dep_68d9a3ac73629",
+    "status": "PENDING",
+    "amount": 40,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 06:07:56"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "47553773077"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/9af2f484-6e0b-4b6e-b69d-3061492cbca65204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***63048066"
+}
+28/09/2025 23:15:35 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 23:15:35 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDkzMDQ2LCJleHAiOjE3NTkwOTQ4NDZ9.xkGs8DcXGceHLuKEjJ3mAda-S2tcIy_STUYsql4q6-M","expires_in":712}
+28/09/2025 23:15:35 - Token obtido com sucesso.
+28/09/2025 23:15:35 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 23:15:35 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d9a576dda6f","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"47553773077","email":"teste@teste.com.br"}}
+28/09/2025 23:15:36 - Create QRCode HTTP 200: {
+    "transactionId": "8c9d0d9d8d979af1bd7cmg4789dq17q3",
+    "external_id": "dep_68d9a576dda6f",
+    "status": "PENDING",
+    "amount": 20,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 06:15:35"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "47553773077"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/8c70eff2-544f-416c-a10e-0287261da7a55204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***630404C7"
+}
+28/09/2025 23:24:32 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+28/09/2025 23:24:32 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDkzMDQ2LCJleHAiOjE3NTkwOTQ4NDZ9.xkGs8DcXGceHLuKEjJ3mAda-S2tcIy_STUYsql4q6-M","expires_in":175}
+28/09/2025 23:24:32 - Token obtido com sucesso.
+28/09/2025 23:24:32 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+28/09/2025 23:24:32 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d9a78fef777","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"47553773077","email":"teste@teste.com.br"}}
+28/09/2025 23:24:33 - Create QRCode HTTP 200: {
+    "transactionId": "4186b7b95c6022d9c51emg47jrxd1ucr",
+    "external_id": "dep_68d9a78fef777",
+    "status": "PENDING",
+    "amount": 20,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 06:24:32"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "47553773077"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/9b52caa9-242a-4a8f-8d5f-1402cd5555595204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***63047E3D"
+}
+29/09/2025 00:47:35 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+29/09/2025 00:47:35 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDk5NTU5LCJleHAiOjE3NTkxMDEzNTl9.mu5jVmVx8mX5W-iTO3D95lmVzleWaH00oe58uqE9VV0","expires_in":1705}
+29/09/2025 00:47:35 - Token obtido com sucesso.
+29/09/2025 00:47:35 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+29/09/2025 00:47:35 - Payload Enviado: {"amount":1,"payerQuestion":"Depósito de R$ 1","external_id":"dep_68d9bb0744934","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"94137149089","email":"teste@teste.com.br"}}
+29/09/2025 00:47:36 - Create QRCode HTTP 200: {
+    "transactionId": "5254685c8250e7b7faa7mg4aikvc2b22",
+    "external_id": "dep_68d9bb0744934",
+    "status": "PENDING",
+    "amount": 1,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 07:47:35"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "94137149089"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/2fdadc81-2eba-43fa-b001-b0169b51df8e5204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***63044762"
+}
+29/09/2025 00:48:13 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+29/09/2025 00:48:14 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDk5NTU5LCJleHAiOjE3NTkxMDEzNTl9.mu5jVmVx8mX5W-iTO3D95lmVzleWaH00oe58uqE9VV0","expires_in":1666}
+29/09/2025 00:48:14 - Token obtido com sucesso.
+29/09/2025 00:48:14 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+29/09/2025 00:48:14 - Payload Enviado: {"amount":1,"payerQuestion":"Depósito de R$ 1","external_id":"dep_68d9bb2d777e8","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"94137149089","email":"teste@teste.com.br"}}
+29/09/2025 00:48:14 - Create QRCode HTTP 200: {
+    "transactionId": "ae7f0022fa24432b9ee4mg4ajecd1wwl",
+    "external_id": "dep_68d9bb2d777e8",
+    "status": "PENDING",
+    "amount": 1,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 07:48:13"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "94137149089"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/b536d56e-3875-4a99-acfa-fd56bf1352e35204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***6304BB33"
+}
+29/09/2025 00:53:25 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+29/09/2025 00:53:26 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDk5NTU5LCJleHAiOjE3NTkxMDEzNTl9.mu5jVmVx8mX5W-iTO3D95lmVzleWaH00oe58uqE9VV0","expires_in":1354}
+29/09/2025 00:53:26 - Token obtido com sucesso.
+29/09/2025 00:53:26 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+29/09/2025 00:53:26 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d9bc657d370","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"94137149089","email":"teste@teste.com.br"}}
+29/09/2025 00:53:26 - Create QRCode HTTP 200: {
+    "transactionId": "ff5a49454767162e74f8mg4aq3411lmb",
+    "external_id": "dep_68d9bc657d370",
+    "status": "PENDING",
+    "amount": 20,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 07:53:25"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "94137149089"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/d8d50f5a-4166-4064-825d-d9a6165ed2475204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***6304D12D"
+}
+29/09/2025 00:53:33 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+29/09/2025 00:53:34 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDk5NTU5LCJleHAiOjE3NTkxMDEzNTl9.mu5jVmVx8mX5W-iTO3D95lmVzleWaH00oe58uqE9VV0","expires_in":1346}
+29/09/2025 00:53:34 - Token obtido com sucesso.
+29/09/2025 00:53:34 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+29/09/2025 00:53:34 - Payload Enviado: {"amount":20,"payerQuestion":"Depósito de R$ 20","external_id":"dep_68d9bc6d951df","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"10533919789","email":"teste@teste.com.br"}}
+29/09/2025 00:53:34 - Create QRCode HTTP 200: {
+    "transactionId": "6dadb490b3c3516458d2mg4aq9jn4aly",
+    "external_id": "dep_68d9bc6d951df",
+    "status": "PENDING",
+    "amount": 20,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 07:53:34"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "10533919789"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/f0b43e19-00e3-4545-adf4-2d28996874935204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***63045FC7"
+}
+29/09/2025 00:56:33 - Credenciais carregadas: URL=https://api.pixupbr.com/v2, BACKEND_URL=https://raspoujalevou.com
+29/09/2025 00:56:33 - Auth Response HTTP 200: {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyMmUyOTRjOWJiYjUzMjdkZDFjZGU1YjRjNWM2YzUwMCIsInN1YiI6ImY0MDdjMGJhYTJjYWY4YjZhN2YxNGJiNjY5YzE3ZGFiIiwiaWF0IjoxNzU5MDk5NTU5LCJleHAiOjE3NTkxMDEzNTl9.mu5jVmVx8mX5W-iTO3D95lmVzleWaH00oe58uqE9VV0","expires_in":1167}
+29/09/2025 00:56:33 - Token obtido com sucesso.
+29/09/2025 00:56:33 - Postback URL final: https://raspoujalevou.com/callback/pixup.php
+29/09/2025 00:56:33 - Payload Enviado: {"amount":1,"payerQuestion":"Depósito de R$ 1","external_id":"dep_68d9bd2127b2d","postbackUrl":"https:\/\/raspoujalevou.com\/callback\/pixup.php","payer":{"name":"Teste","document":"94137149089","email":"teste@teste.com.br"}}
+29/09/2025 00:56:34 - Create QRCode HTTP 200: {
+    "transactionId": "1622a17b32b5b57e11bdmg4au3vk1dqt",
+    "external_id": "dep_68d9bd2127b2d",
+    "status": "PENDING",
+    "amount": 1,
+    "calendar": {
+        "expiration": 3000,
+        "dueDate": "2025-09-28 07:56:33"
+    },
+    "debtor": {
+        "name": "Teste",
+        "document": "94137149089"
+    },
+    "qrcode": "00020101021226880014br.gov.bcb.pix2566qrcodes.saq.digital\/v2\/qr\/cob\/c7396667-75ed-477e-8b65-5b6cb55919b95204000053039865802BR5922VORTEX TECNOLOGIA LTDA6009SAO PAULO62070503***6304635B"
+}
